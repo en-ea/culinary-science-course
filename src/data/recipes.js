@@ -1,6 +1,6 @@
 export const recipes = [
     {
-        id: 'steak',
+        id: 'Eneasteak',
         title: 'The Perfect Steak',
         description: 'Master the art of the Maillard reaction for a steakhouse-quality crust.',
         image: 'https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=800&q=80',
